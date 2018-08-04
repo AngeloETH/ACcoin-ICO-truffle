@@ -1,2 +1,4 @@
-"# TWTD_ICO" 
-"# ACcoin-ICO-truffle" 
+ICO implementation using truffle framework.
+testing @ testrpce
+
+Adding testing code in the future version.
